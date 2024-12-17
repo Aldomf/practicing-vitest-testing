@@ -14,7 +14,7 @@ function App() {
         </a>
         <p>opih</p>
       </div>
-      <p>err</p>
+      <p>errty</p>
       <div className="card">
         <p>kjhihju</p>
         <p>
