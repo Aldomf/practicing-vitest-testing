@@ -13,6 +13,7 @@ function App() {
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
         <p>opih</p>
+        <h2>sss</h2>
       </div>
       <p>errty</p>
       <h1>aa</h1>
