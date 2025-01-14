@@ -16,7 +16,6 @@ function App() {
         <h2>sss</h2>
         <video src="https://www.w3schools.com/html/mov_bbb.mp4" controls></video>
         <img src="https://www.w3schools.com/html/pic_trulli.jpg" alt="picture of a truck" width="150" height="200" />
-        <video src="https://www.w3schools.com/html/mov_bbb.mp4" controls></video>
       </div>
       <p>errty</p>
       <h1>aa</h1>
