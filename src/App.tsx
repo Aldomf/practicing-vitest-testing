@@ -15,7 +15,6 @@ function App() {
         <p>opih</p>
         <h2>sss</h2>
         <h3>sss</h3>
-        <h4>sss</h4>
         <video src="https://www.w3schools.com/html/mov_bbb.mp4" controls></video>
         <img src="https://www.w3schools.com/html/pic_trulli.jpg" alt="picture of a truck" width="150" height="200" />
       </div>
