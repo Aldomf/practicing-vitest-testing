@@ -19,7 +19,6 @@ function App() {
       <p>errty</p>
       <h1>aa</h1>
       <div className="card">
-        <p>hello</p>
         <p>
           Edit<code>src/App.tsx</code>and save to test HMR
         </p>
