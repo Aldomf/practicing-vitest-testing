@@ -12,7 +12,6 @@ function App() {
         <a href="https://vitejs.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
-        <video src="https://www.w3schools.com/html/mov_bbb.mp4" controls></video>
         <img src="https://www.w3schools.com/html/pic_trulli.jpg" alt="picture of a truck" width="150" height="200" />
       </div>
       <p>errty</p>
